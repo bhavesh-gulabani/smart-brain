@@ -1,9 +1,11 @@
 # Smart Brain
-A face detection web application
+Front end for Smart Brain - A face detection web application.  
 
-<h3>To view the project</h3>
-<ol>
-  <li>Clone this repo
-  <li>Run <code>npm install</code> 
-  <li>Run <code>npm start</code>
-</ol>
+### Note
+- As the server is deployed on Heroku, which sleeps after 30 minutes of inactivity, the first request may take some extra time (5-10 secs).  
+- After the initial request the application will run without any delay.  
+
+### To view this project on your local machine 
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
